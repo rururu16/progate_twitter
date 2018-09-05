@@ -43,7 +43,7 @@ GEM
       minitest (~> 5.1)
       tzinfo (~> 1.1)
     arel (9.0.0)
-    autoprefixer-rails (9.1.2)
+    autoprefixer-rails (9.1.4)
       execjs
     bcrypt (3.1.12)
     bcrypt-ruby (3.1.5)
@@ -102,7 +102,7 @@ GEM
     nio4r (2.3.1)
     nokogiri (1.8.4)
       mini_portile2 (~> 2.3.0)
-    pg (1.0.0)
+    pg (1.1.2)
     rack (2.0.5)
     rack-test (1.1.0)
       rack (>= 1.0, < 3)
